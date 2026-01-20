@@ -1,4 +1,4 @@
-# first judgment on claude code vs gemini cli for daily cli work
+# First Judgment on Claude Code vs Gemini CLI for Daily CLI Work
 
 ## 对照任务说明
 
