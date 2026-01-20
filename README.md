@@ -7,6 +7,20 @@
 
 ## 🎯 Why this lab exists
 ## How experiments are evaluated
+## Repository Structure
+
+This repository is organized in three layers:
+
+- **Judgment framework**  
+  `workflows/`  
+  Defines how AI tools are evaluated and compared.
+
+- **Experiments**  
+  `experiments/`  
+  Real-world tasks used to observe tool behavior under the same judgment rules.
+
+- **This README**  
+  Acts as an entry point and explains how to read the experiments.
 
 All experiments in this repository are interpreted using a shared judgment framework:
 
