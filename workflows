@@ -1,1 +1,132 @@
+# Add judgment framework for evaluating CLI AI tools
+
+Songcun Lab · Judgment Framework (v1)
+
+> This is not a benchmark.  
+> This is a judgment framework built from real daily work.
+
+---
+
+## 0. Boundary Conditions
+
+I do NOT judge AI tools under demo or showcase scenarios.
+
+I only evaluate tools when:
+
+- The task is real, daily, and repeatable
+- The task reflects at least 60% of my actual workload
+- The tool is used in a natural working rhythm, not a staged prompt
+
+Any conclusion outside these boundaries is ignored.
+
+---
+
+## 1. Rule One: Context Continuity > Single Command Accuracy
+
+The key question is not:
+
+> “Is this command correct?”
+
+But rather:
+
+> “Does the tool understand what I am doing?”
+
+I observe:
+
+- Whether the tool remembers previous steps
+- Whether it builds on context instead of restarting
+- Whether I need to restate background repeatedly
+
+---
+
+## 2. Rule Two: Decision Friction Matters More Than Speed
+
+I care less about speed, and more about mental load.
+
+I ask myself:
+
+- Do I need to think hard about *how* to ask?
+- Do I need to pre-structure my thoughts for the tool?
+- Am I adapting to the tool, or is the tool adapting to me?
+
+Good tools reduce decision friction.
+
+---
+
+## 3. Rule Three: Can It Work With Incomplete Inputs?
+
+Real work is messy:
+
+- Half-written commands
+- Incomplete configs
+- Unclear intentions
+
+I judge whether the tool can:
+
+- Continue with partial input
+- Offer direction instead of demanding perfection
+- Evolve the solution step by step
+
+---
+
+## 4. Rule Four: Collaboration Beats Obedience
+
+I do not treat CLI AI as a command generator.
+
+I expect:
+
+- Explanations, not just outputs
+- Warnings when risks exist
+- Suggestions when I am likely wrong
+
+A good tool thinks *with* me.
+
+---
+
+## 5. Rule Five: Fit to Real Workflow > Product Design Assumptions
+
+I value tools that respect:
+
+- CLI thinking rhythm
+- Interruptions and corrections
+- Backtracking and iteration
+
+I distrust tools that only shine in idealized flows.
+
+---
+
+## 6. Rule Six: Long-Term Willingness Test
+
+My final question:
+
+> “If I use this every day for 6 months, would I want to?”
+
+Signals include:
+
+- Lower cognitive fatigue
+- Growing trust, not resistance
+- Focus stays on the problem, not the tool
+
+---
+
+## 7. Expression Principle
+
+All judgments are:
+
+- Context-dependent
+- Task-specific
+- Open to revision
+
+This framework produces **first judgments**, not final truths.
+
+---
+
+## Closing Note
+
+I do not rank AI tools by capability ceiling.
+
+I judge them by one standard:
+
+> Whether they help me think and move forward  
+> in real work.
 
