@@ -1,4 +1,4 @@
-# Lab · AI Tools
+# Link experiments to judgment framework
 
 > Real-world experiments with AI tools  
 > 真实世界中的 AI 工具实验室
@@ -6,6 +6,13 @@
 ---
 
 ## 🎯 Why this lab exists
+## How experiments are evaluated
+
+All experiments in this repository are interpreted using a shared judgment framework:
+
+→ `workflows/how-i-judge-cli-ai-tools.md`
+
+This lab focuses on **how decisions are made**, not just tool comparisons or outcomes.
 
 这个仓库不是用来「评测工具好不好」，  
 而是用来记录：
