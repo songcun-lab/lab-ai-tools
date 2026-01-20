@@ -71,4 +71,15 @@ This lab focuses on **how decisions are made**, not just tool comparisons or out
 ---
 
 ## 📂 Repository Structure
+---
+
+## Status
+
+This lab is paused intentionally.
+
+The structure is stable.
+Judgment rules are in place.
+Experiments will continue only when real work demands it.
+
+Last checkpoint: 2026-01
 
