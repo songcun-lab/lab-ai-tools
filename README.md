@@ -44,7 +44,7 @@ This lab focuses on **how decisions are made**, not just tool comparisons or out
 我是 **Songcun（宋润栓）**，管理学博士，  
 非计算机科班出身，从农村一路走到博士阶段，
 曾经努力到很高的位置，因为意外PTSD跌落悬崖，
-意外进入AI的世界。
+偶然间进入AI的世界。
 
 我进入 AI 世界的方式不是“写模型”，  
 而是：
